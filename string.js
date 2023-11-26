@@ -40,3 +40,5 @@ console.log(new7.indexOf('a'));  // it will give you index-1 number // 1 or if n
 // console.log(new7.concat('girl')); // add a new value //narr-owtogirl
 // console.log(new7.includes('smr')); //this method check the value is present the string or not // Given TRUE/FALSE
 // console.log(new7.match('a')); // this method match if char are present print the index number // index-1
+
+//NOTE - String interpolation means backtik like this-(`$()`)
